@@ -1,17 +1,26 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Instrutor de informática, Senac, CE
+  from: 2022
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Formando profissionais para atuarem no eixo tecnológico com foco em 
+               domínio técnico-científico, visão crítica, atitude empreendedora, sustentável
+               colaborativa e prática para projetar, elaborar e publicar aplicações web,
+               configrando e desenvolvendo a prática de utilização de aplicativos,
+               desenvolvendo o raciocínio lógico e tecnológico para o mercado.
+
+- title: Professor Ensino Médio Profissional, EEEP, CE
+  from: 2019
+  to: 2023
+  description: Lecionei sobre informática e Redes de Computadores,
+               avaliei o desempenho dos alunos nas atividades propostas,
+               pesquisando sobre o campo de ensino e promovendo situações laboratoriais,
+               adequando os conteúdos e dos recursos didáticos às necessidades dos estudantes,
+               participando de práticas e treinamentos profissionais.
+
+- title: Bacharel, Ciências da Computação
+  from: 2007
+  to: 2013
+  description: Análise sistemas, criação e manutenção de sistemas computacionais,              
+               Engenharia de software, estrutura de dados; Programação orientada a objetos;
+               Linguagens de programação; Lógica de programação,
+               Gestão de projetos de software, Análise de sistemas, metodologias ágeis,
+               Git, Web design, SQL, PHP, Java com POO.

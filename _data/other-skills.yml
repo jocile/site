@@ -1,7 +1,15 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
-
-- name: Adobe Illustrator
+- name: Aplicativos Microsoft Office
   percentage: 90
   color: success
+
+- name: Sistemas Operacionais
+  percentage: 90
+  color: dunger
+
+- name: Aplicativos gráficos Adobe
+  percentage: 85
+  color: info
+
+- name: Redes de Computadores
+  percentage: 70
+  color: secondary

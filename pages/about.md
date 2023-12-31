@@ -1,14 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 weight: 3
 ---
 
-# **About Me**
+## **Sobre mim**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Olá, eu sou **{{ site.author.name }}** :wave:,
+
+Atualmente atuo como instrutor de informática no [SENAC](https://cursos.ce.senac.br/), onde ministro aulas práticas de desenvolvimento de sistemas, lógica de programação, webdesigne, edição gráfica, informática básica e aplicativos Microsoft Office.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
