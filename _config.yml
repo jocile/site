@@ -21,7 +21,7 @@ nav_exclude:                                            # The following paths ar
   - pages/404.html
   - pages/index.md
   - documentation/partials/**                           # For Documentation Only
-
+  - pages/tagsteologia.html
 
 ### Author Info ###
 author:
@@ -56,10 +56,11 @@ permalink: /blog/:title
 collections:
   projects:
     output: true
-    permalink: /projects/:name
+    permalink: /projetos/:name
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
-
+  teologia:
+    output: true
 
 ### Disqus ###
 disqus:
@@ -100,7 +101,11 @@ defaults:
       type: "posts"
     values:
       comments: false                                   # Set to true to enable disqus comments
-
+  - scope:
+      path: ""
+      type: "teologia"
+    values:
+      layout: "post-de-teologia"
 
 ### Exclude from processing ###
 exclude:
