@@ -4,5 +4,5 @@ tags: [python, java]
 style: fill
 color: warning
 description: Aulas de programação de sistemas
-external_url: https://jocile.com/oldsite/aulas/#programador
+external_url: https://jocile.com/aulas/aulas/#programador
 ---
