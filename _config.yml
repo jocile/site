@@ -49,14 +49,14 @@ author:
 
 
 ### Posts ###
-permalink: /site/blog/:title
+permalink: /blog/:title
 
 
 ### Collections ###
 collections:
   projects:
     output: true
-    permalink: /site/projetos/:name
+    permalink: /projetos/:name
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
 
